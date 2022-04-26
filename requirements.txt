@@ -3,5 +3,5 @@ matplotlib==3.4.2
 numpy==1.19.5
 scikit_image==0.18.3
 scikit_learn==1.0.2
-skimage
+scikit-image
 tensorflow==2.5.1
